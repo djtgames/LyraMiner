@@ -1,4 +1,4 @@
-# LyraMiner: A Custom Python-Based Cryptocurrency Miner For MintME
+# LyraMiner: A Custom Python and C++-Based Cryptocurrency Miner For MintME
 
 **LyraMiner** is a custom-built cryptocurrency miner designed to mine **MintMe** using the **Lyra2 Webchain** hashing algorithm. This lightweight Python miner connects to a Stratum-compatible mining pool, retrieves mining jobs, and uses the Lyra2 Webchain algorithm to hash the data. If the miner finds a valid share that meets the pool's difficulty target, it submits the result back to the pool for potential rewards.
 
