@@ -8,6 +8,3 @@
 - **Efficient Mining Loop**: LyraMiner continuously requests new jobs from the pool, processes them, and submits the results, maximizing uptime and efficiency.
 - **Customizable**: Users can configure pool URL, username, and password directly within the script for seamless mining on supported pools.
 
-
-
-This project is ideal for developers who wish to build their own mining solution for MintMe (or other coins using the Lyra2 Webchain algorithm) or experiment with cryptocurrency mining in Python.
